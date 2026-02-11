@@ -16,7 +16,7 @@
 
 ## 🛠️ インストール
 ```bash
-git clone [https://github.com/YourUsername/Satellite-Vegetation-Analyzer.git](https://github.com/YourUsername/Satellite-Vegetation-Analyzer.git)
+git clone [https://github.com/etenix/Satellite-Vegetation-Analyzer.git](https://github.com/YourUsername/Satellite-Vegetation-Analyzer.git)
 pip install -r requirements.txt
 ```
 
